@@ -1,4 +1,6 @@
 # Fake-and-Real-News-Detection-
 The prevalence of fake news has become a growing concern in recent years, with many people falling prey to misleading information spread through social media and other online platforms. As a result, there has been a rising demand for effective methods to identify and combat fake news. In this project, we aimed to tackle this issue by performing exploratory data analysis and cleaning on a Kaggle news article dataset using the Natural Language Toolkit (nltk) in Python. Our goal was to train machine learning models to classify news articles as real or fake accurately.
+
 To identify the best approach for our classification task, we explored various machine learning algorithms, including Support Vector Machine (SVM), Naive Bayes, and XGBoost. After training and testing these models, we achieved an impressive 95% accuracy rate for real/fake article classification, demonstrating our approach's effectiveness.
+
 Our project showcases the power of Natural Language Processing (NLP) techniques and how they can be used to tackle real-world problems such as identifying and combating fake news. Through our exploratory data analysis and machine learning model development, we hope to contribute to the ongoing efforts to promote accurate and reliable information in the digital age.
